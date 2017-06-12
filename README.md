@@ -2,6 +2,8 @@
 
 A React component that provides you with an infinite scrolling ChatBox, render million of items efficiently inspired by concept of virtualization.
 
+![alt text](./chat.webm)
+
 ## Install
 ```
 $ npm install react-virtualized-chatbox --save

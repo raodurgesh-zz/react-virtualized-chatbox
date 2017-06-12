@@ -1,6 +1,6 @@
 {
   "name": "react-virtualized-chatbox",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React components for efficiently rendering large, scrollable lists work in reverse order.",
   "main": "''",
   "scripts": {
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://developer.xavient.com/repo/drao/react-virtualized-chatbox"
+    "url": "https://github.com/raodurgesh/react-virtualized-chatbox"
   },
   "author": "Durgesh",
   "license": "MIT",
-  "homepage": "https://developer.xavient.com/repo/drao/react-virtualized-chatbox#readme",
+  "homepage": "https://github.com/raodurgesh/react-virtualized-chatbox#readme",
   "peerDependencies" :{
     "react": "15.x || 16.x",
     "react-dom": "15.x || 16.x"
