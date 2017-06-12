@@ -71,6 +71,17 @@ _getListComponent(ref){
 | height | Number | ✓ | Force a height on the entire list component. |
 | getListComponent | Function |  | Callback used to give back reference to underlying virtualized list component for finer control |
 
+## CSS 
+Add following style rule on Index.html
+
+  .ReactVirtualized__Grid {
+        border: 1px solid #000;
+    }
+  
+    .resetOverFlow .ReactVirtualized__Grid__innerScrollContainer{
+        overflow: visible !important;
+    }
+
 ## Development
 Should you wish to develop this module further start by cloning this repository
 
